@@ -56,37 +56,42 @@
 
 ### 🛠️ **Desenvolvimento e Ferramentas**
 
-### Linguagens
+<div align="center">
+  <h2>👩‍💻 Linguagens</h2>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-GML-1C5B83?style=for-the-badge&logo=game-maker&logoColor=white">
+</div>
 
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-  ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![GML](https://img.shields.io/badge/-GML-1C5B83?style=for-the-badge&logo=game-maker&logoColor=white)
+<h2>🎮 Engines de Desenvolvimento de Jogos</h2>
+<div>
+  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/-GameMaker-6B4B3A?style=for-the-badge&logo=game-maker&logoColor=white">
+</div>
 
-- **Engines de Desenvolvimento de Jogos**  
-  ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
-  ![GameMaker](https://img.shields.io/badge/-GameMaker-6B4B3A?style=for-the-badge&logo=game-maker&logoColor=white)
+<h2>🛠️ Ferramentas de Desenvolvimento</h2>
+<div>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
-- **Ferramentas de Desenvolvimento**  
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+<h2>📊 Base de Dados</h2>
+<div>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
 
-### 📊 **Base de Dados**
+<h2>🌐 DevOps e Versionamento</h2>
+<div>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
-- **Bancos de Dados**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+<h2>🖥️ Outras Habilidades</h2>
+<div>
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
+</div>
 
-
-### 🌐 **DevOps e Versionamento**
-
-- **Versionamento e Ferramentas DevOps**
-- 
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
-### 🖥️ **Outras Habilidades**
-
-- **Ferramentas de Design**  
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-
-<h2 align="center"> <img src="https://img.shields.io/static/v1?label=Overview&message=Karen%20Santos&color=FF69B4&style=for-the-badge&logo=GitHub" alt="GitHub estático"> </h2>
+<h2 align="center">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=Karen%20Santos&color=FF69B4&style=for-the-badge&logo=GitHub" alt="GitHub estático">
+</h2>
